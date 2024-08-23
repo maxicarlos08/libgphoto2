@@ -30,6 +30,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <fcntl.h>
+#include <unistd.h>
 #include <errno.h>
 #include <sys/time.h>
 #ifdef HAVE_SYS_PARAM_H
